@@ -1,0 +1,1 @@
+We have worked on SAGE Group social media dataset (including Instagram, Twitter, LinkedIn, Facebook) where we analyze the data and based on the data we have predicted the likes post, dislikes post, and interaction of the people in the platform.
