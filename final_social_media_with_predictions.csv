@@ -1,0 +1,251 @@
+Post_id,Platform,Date,Time,Hashtags,Topic,Likes,Comments,Shares,Impressions,Ctr_Percent,Sentiment,Sentiment_encoded,Platform_encoded,Predicted_Likes,Predicted_Sentiment
+Sage_0001,Instagram,09-11-2024,19:51,No Hashtags,Research,566,123,23,18799,3.4,Positive,2,1,572.7250950100414,2
+Sage_0002,LinkedIn,16-02-2025,20:42,No Hashtags,Research,294,30,70,6441,2.22,Positive,2,2,366.19261948947377,2
+Sage_0003,LinkedIn,19-09-2025,03:25,#Research #Alumni #Career,Education,246,68,47,5534,4.6,Negative,0,2,465.77947804475207,0
+Sage_0004,Twitter,01-06-2025,00:04,#Recruitment,Announcements,113,42,139,3802,2.15,Positive,2,3,281.6576846068458,2
+Sage_0005,LinkedIn,16-04-2025,17:04,#Education #Alumni #Recruitment,Announcements,640,92,10,13421,1.29,Neutral,1,2,465.9469463616977,1
+Sage_0006,Instagram,07-05-2025,01:08,#Research,Workshops,1109,36,9,34793,3.61,Negative,0,1,527.076786139201,0
+Sage_0007,Facebook,04-06-2025,16:41,#Innovation #Career #Education,Education,565,46,198,10537,3.76,Neutral,1,0,609.4554266599567,2
+Sage_0008,Facebook,02-07-2025,20:00,No Hashtags,Events,664,75,68,13690,1.58,Neutral,1,0,643.1499855028162,1
+Sage_0009,Instagram,09-05-2025,04:21,#Alumni,Student Success,670,64,26,21514,2.84,Positive,2,1,504.1740959849134,2
+Sage_0010,Twitter,20-07-2025,15:26,#Workshop,Workshops,26,35,87,1278,3.54,Positive,2,3,273.5245152309832,1
+Sage_0011,Facebook,09-04-2025,14:21,#Career #Education #Recruitment,Workshops,527,125,146,10606,1.06,Positive,2,0,673.5263686443946,1
+Sage_0012,Twitter,23-06-2025,05:12,#Innovation #Workshop #Campus,Education,369,11,58,9864,1.78,Negative,0,3,301.0747307429066,0
+Sage_0013,Twitter,27-02-2025,15:58,#Research #StudentLife #Innovation,Recruitment,154,43,109,4312,1.92,Neutral,1,3,310.5372497751239,1
+Sage_0014,LinkedIn,21-05-2025,19:13,No Hashtags,Announcements,784,63,14,17457,0.84,Positive,2,2,404.5347036899691,2
+Sage_0015,LinkedIn,28-03-2025,16:25,No Hashtags,Workshops,517,89,38,10906,3.1,Positive,2,2,434.74361851460174,2
+Sage_0016,LinkedIn,05-09-2025,09:00,No Hashtags,Announcements,558,75,17,12005,2.65,Neutral,1,2,446.1949635917456,2
+Sage_0017,LinkedIn,09-09-2025,14:10,#Campus,Recruitment,295,71,16,6792,2.06,Positive,2,2,413.8297544052407,1
+Sage_0018,Instagram,18-04-2025,18:31,#SAGEGroup #Recruitment #Webinar,Recruitment,1002,5,29,30624,3.34,Positive,2,1,435.6230969597854,2
+Sage_0019,Facebook,13-11-2024,02:03,#Career #Research #Recruitment,Announcements,743,53,172,13733,4.99,Negative,0,0,645.3062798646885,2
+Sage_0020,Twitter,11-01-2025,17:12,#Campus #Alumni,Research,206,4,116,6042,1.44,Positive,2,3,237.50619370930576,2
+Sage_0021,Facebook,15-06-2025,03:50,No Hashtags,Events,515,88,171,10603,1.46,Neutral,1,0,658.2544429151326,1
+Sage_0022,Twitter,26-12-2024,01:38,#Workshop #Alumni #StudentLife,Events,206,46,10,6585,2.03,Negative,0,3,341.7405776222198,0
+Sage_0023,Twitter,14-06-2025,17:56,#SAGEGroup #Education,Recruitment,369,27,25,10062,1.42,Positive,2,3,264.2294645157116,2
+Sage_0024,Facebook,05-06-2025,21:25,#SAGEGroup,Student Success,442,72,144,9789,1.22,Positive,2,0,611.9466576557203,2
+Sage_0025,Twitter,10-09-2025,01:46,#Recruitment #Innovation #Campus,Workshops,162,26,71,5372,4.23,Negative,0,3,318.5029508340408,2
+Sage_0026,Instagram,24-02-2025,17:18,#Research #Campus,Education,763,37,10,25108,4.02,Neutral,1,1,500.52098364974086,1
+Sage_0027,Facebook,23-10-2025,04:47,No Hashtags,Workshops,306,142,132,7051,0.52,Neutral,1,0,720.9960352432158,1
+Sage_0028,LinkedIn,06-08-2025,13:32,#Alumni #Research,Events,371,20,18,9230,1.13,Neutral,1,2,382.29148992425337,1
+Sage_0029,Twitter,03-10-2025,08:45,#Workshop #Campus,Education,382,59,128,9867,4.99,Positive,2,3,301.4096673767979,2
+Sage_0030,Facebook,13-07-2025,20:29,#Innovation #Education,Research,752,37,40,15015,1.43,Positive,2,0,571.2808107764071,2
+Sage_0031,Twitter,11-04-2025,05:54,#Workshop #Career #Alumni,Research,369,31,150,9339,3.85,Positive,2,3,268.8769898733474,2
+Sage_0032,Twitter,30-11-2024,22:59,#SAGEGroup #Research,Research,376,19,59,10171,1.23,Positive,2,3,254.93441380043998,2
+Sage_0033,LinkedIn,23-06-2025,19:51,#Research,Recruitment,622,33,27,14328,3.0,Positive,2,2,369.67826350770065,2
+Sage_0034,LinkedIn,06-12-2024,12:50,No Hashtags,Recruitment,234,119,77,4937,1.4,Neutral,1,2,497.31774252573933,2
+Sage_0035,Facebook,11-12-2024,06:03,No Hashtags,Announcements,501,140,88,9119,2.3,Positive,2,0,690.9545887355289,2
+Sage_0036,Facebook,10-06-2025,07:03,No Hashtags,Events,220,96,24,4655,1.42,Positive,2,0,639.8318098015351,2
+Sage_0037,Facebook,31-05-2025,11:08,#Research #Webinar #Education,Events,830,12,134,16373,1.34,Positive,2,0,542.2337772911834,2
+Sage_0038,Facebook,06-10-2025,02:10,#Workshop,Research,53,38,66,1393,0.48,Neutral,1,0,600.1603759446851,1
+Sage_0039,Twitter,02-07-2025,12:29,#Workshop #Admissions,Research,127,59,73,4360,3.36,Positive,2,3,301.4096673767979,2
+Sage_0040,Facebook,05-10-2025,02:03,#Webinar #Recruitment,Student Success,666,52,199,14045,2.78,Positive,2,0,588.7090308675413,2
+Sage_0041,LinkedIn,14-07-2025,17:00,#Education #Admissions,Student Success,684,9,51,14830,2.27,Positive,2,2,341.79311136188585,2
+Sage_0042,LinkedIn,19-06-2025,10:55,#SAGEGroup #Research,Announcements,244,108,66,6574,3.92,Positive,2,2,456.8193639633718,2
+Sage_0043,Facebook,20-10-2025,00:27,#Education,Research,382,148,5,9231,0.81,Neutral,1,0,727.9673232796695,1
+Sage_0044,LinkedIn,15-05-2025,04:16,#Research #Career #Education,Announcements,597,93,62,13255,4.61,Negative,0,2,494.8265115299758,0
+Sage_0045,Instagram,20-08-2025,15:13,No Hashtags,Workshops,145,197,26,6741,4.54,Neutral,1,1,686.4219979551726,1
+Sage_0046,Facebook,08-08-2025,13:12,#Research #Education,Recruitment,2,76,108,2228,0.78,Positive,2,0,616.5941830133561,2
+Sage_0047,Twitter,24-03-2025,14:12,#Workshop #StudentLife #Career,Research,62,21,101,2737,3.5,Positive,2,3,257.2581764792579,2
+Sage_0048,Instagram,11-06-2025,13:24,#Research #Admissions,Student Success,10,194,40,1447,4.2,Positive,2,1,655.2186701080767,2
+Sage_0049,LinkedIn,24-07-2025,12:57,#Admissions,Recruitment,22,109,28,1445,4.41,Neutral,1,2,485.69892913164983,1
+Sage_0050,LinkedIn,22-01-2025,04:37,#Workshop #Campus,Education,217,60,13,6252,2.47,Positive,2,2,401.04905967174227,2
+Sage_0051,LinkedIn,04-10-2025,17:46,#Admissions,Student Success,298,61,58,6361,4.39,Neutral,1,2,429.9286248400203,1
+Sage_0052,Twitter,23-12-2024,07:23,#Campus #SAGEGroup,Announcements,317,49,146,8638,2.86,Neutral,1,3,317.5085378115775,1
+Sage_0053,LinkedIn,08-03-2025,14:42,#Education #Career,Student Success,573,72,42,12631,0.8,Positive,2,2,414.99163574464967,2
+Sage_0054,Instagram,01-04-2025,00:30,#Campus,Student Success,1471,66,13,45374,1.09,Neutral,1,1,534.2155424926004,1
+Sage_0055,LinkedIn,30-04-2025,02:31,#Workshop #Innovation,Events,280,81,58,7261,0.9,Neutral,1,2,453.1662516281993,1
+Sage_0056,LinkedIn,23-11-2024,03:31,#Research #Innovation #Career,Recruitment,779,82,20,15862,1.3,Positive,2,2,426.6104491387391,2
+Sage_0057,Facebook,07-02-2025,18:02,#Webinar #Research #Admissions,Student Success,426,104,95,9090,3.88,Neutral,1,0,676.8445443456758,1
+Sage_0058,Instagram,15-01-2025,05:19,#Webinar #Innovation #Campus,Research,602,94,39,18260,2.58,Positive,2,1,539.0305361671818,2
+Sage_0059,Twitter,10-01-2025,21:26,No Hashtags,Recruitment,129,40,44,3346,0.63,Positive,2,3,279.3339219280279,2
+Sage_0060,Facebook,17-05-2025,05:04,#Education #Campus #StudentLife,Events,465,48,176,10510,2.72,Positive,2,0,584.0615055099055,2
+Sage_0061,Twitter,24-05-2025,21:20,No Hashtags,Research,75,0,29,2711,2.55,Positive,2,3,232.85866835166996,1
+Sage_0062,LinkedIn,24-02-2025,03:22,No Hashtags,Announcements,453,92,16,9827,1.11,Negative,0,2,493.6646301905668,0
+Sage_0063,Facebook,27-12-2024,21:05,#Admissions #Campus #Education,Research,217,97,50,6121,2.15,Neutral,1,0,668.7113749698132,1
+Sage_0064,Facebook,08-02-2025,03:12,#Workshop #Campus #SAGEGroup,Announcements,668,65,198,14334,3.27,Neutral,1,0,631.5311721087268,1
+Sage_0065,Facebook,08-03-2025,19:45,#StudentLife #Innovation,Announcements,593,122,93,11881,3.55,Neutral,1,0,697.7584084550368,1
+Sage_0066,Instagram,03-06-2025,19:50,No Hashtags,Workshops,1312,163,16,41218,4.83,Neutral,1,1,646.9180324152685,1
+Sage_0067,Twitter,30-09-2025,15:00,#Admissions #StudentLife #Recruitment,Research,219,29,53,6913,4.05,Neutral,1,3,294.2709110233986,1
+Sage_0068,Instagram,18-09-2025,00:18,#Recruitment #SAGEGroup #Campus,Recruitment,1374,131,39,41890,1.82,Positive,2,1,582.020145725313,1
+Sage_0069,LinkedIn,03-02-2025,21:51,No Hashtags,Workshops,74,112,71,2167,0.61,Neutral,1,2,489.1845731498767,1
+Sage_0070,Twitter,14-09-2025,15:10,No Hashtags,Workshops,59,33,149,2073,4.42,Neutral,1,3,298.9184363810344,1
+Sage_0071,LinkedIn,27-10-2025,18:44,#Innovation #Workshop,Events,341,89,68,7184,3.26,Positive,2,2,434.74361851460174,2
+Sage_0072,LinkedIn,10-08-2025,05:38,#StudentLife,Events,780,8,4,17057,0.63,Negative,0,2,396.0665976802151,0
+Sage_0073,Instagram,19-03-2025,21:08,No Hashtags,Events,649,46,26,20216,4.15,Neutral,1,1,510.97791570442143,1
+Sage_0074,Facebook,12-06-2025,10:32,#Admissions #Career,Events,436,120,94,7996,0.96,Positive,2,0,667.7169619473499,2
+Sage_0075,LinkedIn,24-11-2024,10:52,#Workshop,Student Success,421,80,67,9104,4.1,Positive,2,2,424.28668645992127,2
+Sage_0076,Twitter,19-07-2025,17:08,#StudentLife,Recruitment,217,58,133,6671,0.42,Neutral,1,3,327.9654698662581,1
+Sage_0077,Twitter,19-04-2025,03:18,#Campus,Student Success,378,39,34,10879,0.85,Neutral,1,3,305.8897244174881,1
+Sage_0078,Instagram,13-03-2025,01:35,No Hashtags,Student Success,1493,97,39,46725,1.26,Neutral,1,1,570.2338640142777,1
+Sage_0079,Instagram,23-02-2025,00:51,No Hashtags,Student Success,1227,180,12,38555,0.35,Positive,2,1,638.9523313563515,2
+Sage_0080,Instagram,19-05-2025,18:24,#Admissions,Workshops,870,183,7,26348,2.52,Positive,2,1,642.4379753745783,2
+Sage_0081,Facebook,25-02-2025,12:57,#Research #Webinar #Recruitment,Research,708,2,140,15063,4.29,Neutral,1,0,558.3326477259629,1
+Sage_0082,Facebook,23-01-2025,04:55,#StudentLife #Alumni,Education,899,143,101,17415,0.39,Neutral,1,0,722.1579165826248,1
+Sage_0083,LinkedIn,20-06-2025,02:34,#Alumni #Innovation #Webinar,Student Success,235,112,62,5247,4.81,Positive,2,2,461.4668893210076,2
+Sage_0084,Instagram,23-01-2025,16:42,No Hashtags,Student Success,197,53,19,8545,2.61,Positive,2,1,491.39340125141496,2
+Sage_0085,Facebook,13-05-2025,17:48,#Innovation #Education,Research,850,112,40,16920,2.97,Positive,2,0,658.4219112320783,2
+Sage_0086,Twitter,08-06-2025,09:44,#Education,Workshops,101,35,17,3734,0.24,Positive,2,3,273.5245152309832,2
+Sage_0087,Facebook,26-07-2025,03:19,#Webinar #Campus #StudentLife,Announcements,242,24,128,4927,1.48,Positive,2,0,556.1763533640908,2
+Sage_0088,Instagram,08-12-2024,03:27,#Webinar #Career #SAGEGroup,Education,1286,165,26,40759,3.71,Negative,0,1,676.9594789229554,0
+Sage_0089,Facebook,22-12-2024,03:04,#SAGEGroup,Recruitment,77,136,106,3171,4.49,Negative,0,0,741.7424310356313,0
+Sage_0090,Facebook,20-05-2025,21:56,No Hashtags,Announcements,426,145,34,7874,4.55,Positive,2,0,696.7639954325736,2
+Sage_0091,Instagram,18-03-2025,08:00,#Innovation,Announcements,1130,44,7,35330,2.79,Neutral,1,1,508.6541530256035,1
+Sage_0092,Twitter,10-04-2025,01:16,#Innovation #Recruitment,Events,319,27,96,9334,1.46,Neutral,1,3,291.9471483445807,1
+Sage_0093,LinkedIn,06-04-2025,06:07,No Hashtags,Education,135,11,66,3164,3.31,Positive,2,2,344.11687404070375,2
+Sage_0094,LinkedIn,05-02-2025,00:23,#Workshop,Events,184,58,38,4255,4.08,Neutral,1,2,426.44298082179347,1
+Sage_0095,Instagram,23-12-2024,21:35,#Research #Campus,Workshops,621,56,23,19454,1.26,Positive,2,1,494.8790452696418,2
+Sage_0096,LinkedIn,17-04-2025,00:29,#Alumni,Research,521,37,2,10995,2.36,Positive,2,2,374.32578886533645,2
+Sage_0097,LinkedIn,04-01-2025,02:28,#Admissions #Alumni,Research,715,40,1,14804,4.19,Neutral,1,2,405.52911671243237,1
+Sage_0098,Twitter,08-01-2025,03:48,#Admissions #Career #Campus,Announcements,111,44,98,2874,2.49,Neutral,1,3,311.6991311145328,2
+Sage_0099,LinkedIn,27-03-2025,18:53,#Webinar #SAGEGroup #Career,Events,447,17,14,9745,3.58,Neutral,1,2,378.80584590602655,1
+Sage_0100,LinkedIn,15-07-2025,22:28,#Webinar #Workshop #SAGEGroup,Events,196,18,74,5898,1.76,Neutral,1,2,379.9677272454355,1
+Sage_0101,LinkedIn,08-01-2025,20:36,#Campus,Announcements,304,114,21,7697,3.44,Neutral,1,2,491.5083358286946,1
+Sage_0102,Twitter,24-06-2025,06:04,#Innovation #Workshop,Student Success,267,45,105,6925,2.19,Negative,0,3,340.5786962828108,0
+Sage_0103,Facebook,01-10-2025,03:59,#Alumni #Workshop,Recruitment,262,19,175,5037,4.55,Positive,2,0,550.366946667046,2
+Sage_0104,Instagram,07-07-2025,13:41,#StudentLife #Alumni #Innovation,Workshops,1431,196,39,43517,3.57,Neutral,1,1,685.2601166157638,1
+Sage_0105,LinkedIn,17-04-2025,22:06,No Hashtags,Recruitment,223,95,40,4679,1.65,Negative,0,2,497.1502742087937,2
+Sage_0106,Instagram,09-11-2024,03:30,No Hashtags,Workshops,1236,78,4,39855,1.51,Neutral,1,1,548.1581185655077,1
+Sage_0107,Facebook,03-05-2025,11:16,#Recruitment,Education,757,92,22,14995,0.58,Neutral,1,0,662.9019682727684,1
+Sage_0108,Twitter,29-04-2025,09:19,#Innovation #SAGEGroup,Workshops,32,37,108,1491,1.68,Neutral,1,3,303.5659617386702,1
+Sage_0109,Instagram,31-01-2025,02:56,#Alumni,Recruitment,787,39,21,24693,4.88,Positive,2,1,475.12706249968966,1
+Sage_0110,Facebook,01-04-2025,09:28,#Innovation #SAGEGroup #Research,Student Success,428,40,180,9274,3.58,Positive,2,0,574.766454794634,2
+Sage_0111,Facebook,20-04-2025,05:02,#Admissions,Workshops,15,17,136,945,2.45,Negative,0,0,603.4785516459664,0
+Sage_0112,LinkedIn,22-07-2025,05:17,#Education,Recruitment,520,77,29,10652,3.08,Positive,2,2,420.8010424416944,2
+Sage_0113,Facebook,14-02-2025,21:12,No Hashtags,Recruitment,438,48,166,10268,1.21,Neutral,1,0,611.7791893387746,2
+Sage_0114,LinkedIn,12-10-2025,23:03,#Campus #Recruitment,Research,137,81,39,4593,3.99,Positive,2,2,425.4485677993302,2
+Sage_0115,Twitter,19-09-2025,02:54,#Workshop,Student Success,282,15,102,7725,2.47,Neutral,1,3,278.0045722716733,2
+Sage_0116,Instagram,05-01-2025,00:04,#Recruitment #Innovation #Webinar,Recruitment,120,34,27,5717,2.07,Neutral,1,1,497.03533963151403,1
+Sage_0117,LinkedIn,20-04-2025,09:31,#Workshop #Webinar,Recruitment,636,49,37,13646,4.66,Neutral,1,2,415.98604876711295,1
+Sage_0118,LinkedIn,31-05-2025,02:02,#Innovation #Research,Education,108,46,64,3275,2.22,Positive,2,2,384.78272092001697,2
+Sage_0119,Facebook,04-07-2025,10:01,No Hashtags,Events,563,106,127,11783,1.58,Positive,2,0,651.4506231956245,1
+Sage_0120,LinkedIn,14-08-2025,13:12,No Hashtags,Research,27,50,10,2493,2.7,Neutral,1,2,417.14793010652187,1
+Sage_0121,Facebook,31-07-2025,16:00,No Hashtags,Events,130,70,7,4260,1.37,Neutral,1,0,637.3405788057715,2
+Sage_0122,LinkedIn,08-08-2025,11:54,#Workshop,Research,588,16,62,12680,2.58,Positive,2,2,349.92628073774847,2
+Sage_0123,Twitter,27-05-2025,04:17,#StudentLife #Campus,Student Success,393,50,13,9882,4.83,Neutral,1,3,318.6704191509865,1
+Sage_0124,Twitter,30-11-2024,15:29,#Campus #SAGEGroup,Workshops,246,44,4,6756,1.17,Neutral,1,3,311.6991311145328,1
+Sage_0125,Facebook,24-12-2024,00:05,No Hashtags,Research,111,59,8,2619,3.2,Positive,2,0,596.842200243404,2
+Sage_0126,Facebook,09-05-2025,21:28,No Hashtags,Student Success,899,141,76,16869,1.93,Neutral,1,0,719.8341539038069,1
+Sage_0127,Instagram,07-02-2025,10:31,#Education #Research,Recruitment,1252,135,30,39374,1.04,Neutral,1,1,614.3853549118179,1
+Sage_0128,Twitter,12-12-2024,15:56,#StudentLife #Campus #Workshop,Research,48,47,18,2615,4.52,Positive,2,3,287.4670913038906,2
+Sage_0129,Instagram,15-06-2025,09:53,#SAGEGroup #Recruitment #Alumni,Education,944,85,18,29048,2.46,Neutral,1,1,556.2912879413705,1
+Sage_0130,Facebook,26-06-2025,03:31,#Alumni,Recruitment,445,102,185,9951,4.47,Neutral,1,0,674.5207816668578,1
+Sage_0131,LinkedIn,18-12-2024,20:47,No Hashtags,Education,348,100,37,7219,3.56,Neutral,1,2,475.2419970769693,1
+Sage_0132,Facebook,28-12-2024,20:31,No Hashtags,Education,449,80,129,8530,0.93,Positive,2,0,621.2417083709919,2
+Sage_0133,Instagram,09-03-2025,17:15,#SAGEGroup,Student Success,849,13,11,27745,4.92,Positive,2,1,444.91814767505696,2
+Sage_0134,Instagram,02-08-2025,23:08,#Education #StudentLife,Events,55,137,29,2360,2.37,Positive,2,1,588.9914337617666,2
+Sage_0135,Twitter,25-12-2024,13:33,No Hashtags,Workshops,125,50,147,3939,3.84,Neutral,1,3,318.6704191509865,1
+Sage_0136,LinkedIn,17-08-2025,11:29,#Admissions #Research,Announcements,790,25,73,16062,4.27,Neutral,1,2,388.10089662129815,1
+Sage_0137,Twitter,21-11-2024,15:00,No Hashtags,Recruitment,206,47,7,5701,1.78,Neutral,1,3,315.1847751327597,1
+Sage_0138,Twitter,04-02-2025,00:44,#Recruitment,Announcements,204,38,55,6369,4.44,Neutral,1,3,304.7278430780791,1
+Sage_0139,Facebook,03-04-2025,21:35,#Webinar #Campus,Education,863,4,75,15961,2.99,Positive,2,0,532.9387265759118,2
+Sage_0140,Twitter,02-06-2025,21:08,#Webinar,Student Success,182,51,132,5987,0.75,Neutral,1,3,319.8323004903954,1
+Sage_0141,Facebook,03-01-2025,06:31,No Hashtags,Student Success,655,82,150,12817,0.81,Neutral,1,0,651.2831548786789,1
+Sage_0142,Facebook,10-04-2025,10:01,#SAGEGroup #Workshop #Education,Announcements,793,112,179,14714,2.41,Positive,2,0,658.4219112320783,2
+Sage_0143,Facebook,20-12-2024,01:09,#Career #SAGEGroup #Admissions,Events,460,79,4,9336,2.15,Positive,2,0,620.0798270315829,2
+Sage_0144,LinkedIn,01-11-2025,04:43,#Innovation,Research,788,40,56,16550,3.91,Neutral,1,2,405.52911671243237,1
+Sage_0145,Instagram,28-01-2025,16:22,No Hashtags,Education,264,64,9,10696,3.82,Negative,0,1,559.6094636426516,0
+Sage_0146,Instagram,14-04-2025,03:38,No Hashtags,Education,1181,114,38,38427,3.7,Neutral,1,1,589.9858467842299,1
+Sage_0147,Twitter,20-07-2025,23:36,#StudentLife,Events,392,1,142,11083,3.86,Neutral,1,3,261.738233519948,1
+Sage_0148,LinkedIn,19-05-2025,23:07,No Hashtags,Research,544,60,67,11422,3.71,Neutral,1,2,428.76674350061137,1
+Sage_0149,Twitter,03-10-2025,09:18,#Career,Events,297,26,61,8518,3.55,Positive,2,3,263.0675831763026,2
+Sage_0150,LinkedIn,12-06-2025,15:06,No Hashtags,Recruitment,254,71,45,6741,4.53,Positive,2,2,413.8297544052407,2
+Sage_0151,Instagram,26-05-2025,10:50,#Innovation #Campus,Education,970,89,10,30607,1.46,Neutral,1,1,560.9388132990063,1
+Sage_0152,LinkedIn,28-11-2024,05:13,#SAGEGroup #Research #Workshop,Recruitment,121,2,42,3971,0.93,Positive,2,2,333.6599419860232,2
+Sage_0153,LinkedIn,16-06-2025,22:00,#Campus,Education,309,80,38,7766,2.16,Negative,0,2,479.72205411765947,0
+Sage_0154,Twitter,30-07-2025,20:58,#Alumni #Career,Workshops,251,14,143,7446,2.73,Positive,2,3,249.12500710339526,2
+Sage_0155,LinkedIn,10-08-2025,03:09,#StudentLife,Student Success,439,106,57,10109,1.17,Neutral,1,2,482.213285113423,1
+Sage_0156,LinkedIn,23-06-2025,04:03,#Career #Education,Workshops,529,18,60,12233,3.96,Neutral,1,2,379.9677272454355,1
+Sage_0157,LinkedIn,25-06-2025,06:03,No Hashtags,Workshops,666,71,28,13761,1.24,Positive,2,2,413.8297544052407,2
+Sage_0158,Facebook,27-09-2025,07:59,#Career #Recruitment #Education,Workshops,314,124,75,8062,2.55,Positive,2,0,672.3644873049857,2
+Sage_0159,LinkedIn,17-09-2025,13:00,#Research #SAGEGroup,Research,100,62,24,2934,1.38,Positive,2,2,403.3728223505601,2
+Sage_0160,LinkedIn,22-05-2025,05:42,#Research,Education,438,49,56,10104,1.9,Neutral,1,2,415.98604876711295,1
+Sage_0161,Facebook,04-10-2025,07:36,#Alumni #StudentLife,Student Success,293,76,59,7395,1.08,Positive,2,0,616.5941830133561,2
+Sage_0162,Twitter,24-07-2025,16:36,#Education #Career #Recruitment,Events,238,48,79,7154,0.48,Positive,2,3,288.6289726432995,2
+Sage_0163,Twitter,12-06-2025,21:37,#Education #Innovation,Education,172,28,60,5344,2.43,Positive,2,3,265.3913458551205,2
+Sage_0164,LinkedIn,02-02-2025,10:37,#Education #Admissions,Events,45,68,65,1966,0.58,Neutral,1,2,438.06179421588297,1
+Sage_0165,Instagram,29-08-2025,22:01,#Innovation #Recruitment #Workshop,Education,668,161,39,21463,4.07,Neutral,1,1,644.5942697364505,1
+Sage_0166,Instagram,27-10-2025,20:57,No Hashtags,Events,719,111,17,23339,0.46,Neutral,1,1,586.5002027660031,1
+Sage_0167,LinkedIn,01-05-2025,04:41,#SAGEGroup #Workshop,Student Success,647,31,29,13231,1.44,Positive,2,2,367.35450082888275,2
+Sage_0168,Facebook,21-02-2025,14:16,#Webinar,Research,634,44,183,13040,1.19,Positive,2,0,579.4139801522697,2
+Sage_0169,Facebook,28-02-2025,15:29,#Webinar,Workshops,118,137,161,4154,2.73,Negative,0,0,742.9043123750403,0
+Sage_0170,Instagram,14-10-2025,08:59,#StudentLife #Alumni,Announcements,1274,20,19,39190,4.43,Positive,2,1,453.05131705091964,2
+Sage_0171,LinkedIn,01-06-2025,08:08,#Campus #Alumni #Innovation,Education,450,2,66,10628,4.88,Neutral,1,2,361.3776258148923,1
+Sage_0172,Instagram,18-09-2025,15:55,No Hashtags,Recruitment,1294,88,12,39878,3.28,Neutral,1,1,559.7769319595973,1
+Sage_0173,Instagram,13-04-2025,11:51,#Alumni #StudentLife #Education,Workshops,459,99,13,15530,0.33,Neutral,1,1,572.5576266930957,1
+Sage_0174,Facebook,26-02-2025,16:02,No Hashtags,Research,72,75,123,1877,1.18,Positive,2,0,615.4323016739471,2
+Sage_0175,Instagram,19-01-2025,12:13,#Campus,Student Success,205,173,34,6837,4.39,Positive,2,1,630.8191619804888,2
+Sage_0176,LinkedIn,04-02-2025,13:38,No Hashtags,Workshops,726,4,45,16458,0.79,Neutral,1,2,363.7013884937102,1
+Sage_0177,Twitter,02-01-2025,14:40,No Hashtags,Announcements,58,48,79,1560,3.72,Neutral,1,3,316.3466564721686,2
+Sage_0178,Twitter,15-08-2025,14:35,#Admissions #Workshop,Research,385,4,110,10997,0.56,Neutral,1,3,265.22387753817486,1
+Sage_0179,Facebook,07-11-2024,10:29,No Hashtags,Research,147,20,0,4293,2.84,Neutral,1,0,579.2465118353241,1
+Sage_0180,Twitter,23-06-2025,06:18,#Research #Webinar #Innovation,Events,93,60,21,3681,3.7,Positive,2,3,302.5715487162069,2
+Sage_0181,Instagram,30-11-2024,05:26,#Innovation,Workshops,397,170,7,14545,1.51,Neutral,1,1,655.051201791131,1
+Sage_0182,LinkedIn,05-05-2025,07:49,#Workshop,Events,71,48,10,2430,2.45,Negative,0,2,442.54185125657307,1
+Sage_0183,Twitter,23-03-2025,22:42,No Hashtags,Student Success,179,57,71,5940,4.02,Positive,2,3,299.08590469798,2
+Sage_0184,Instagram,16-12-2024,22:38,#Alumni #Recruitment,Research,180,180,11,5899,0.27,Positive,2,1,638.9523313563515,2
+Sage_0185,Instagram,21-04-2025,23:20,#Alumni #Webinar,Education,127,129,10,6511,4.91,Positive,2,1,579.696383046495,2
+Sage_0186,Facebook,23-11-2024,21:49,#Campus #StudentLife #Admissions,Research,559,128,90,11072,1.74,Neutral,1,0,704.7296964914906,1
+Sage_0187,Facebook,23-07-2025,17:06,No Hashtags,Events,226,87,179,5097,2.11,Neutral,1,0,657.0925615757236,1
+Sage_0188,LinkedIn,20-08-2025,02:18,#StudentLife #Campus #Career,Workshops,335,90,58,7475,1.96,Positive,2,2,435.9054998540107,2
+Sage_0189,LinkedIn,17-08-2025,23:24,#Admissions #Innovation,Student Success,498,9,5,11655,2.08,Neutral,1,2,369.51079519075495,1
+Sage_0190,Twitter,28-05-2025,17:25,#Research,Education,310,31,16,8333,1.2,Negative,0,3,324.3123575310856,0
+Sage_0191,Instagram,06-07-2025,19:47,#SAGEGroup #Career #Admissions,Announcements,95,14,27,4681,3.42,Negative,0,1,501.51539667220413,0
+Sage_0192,Instagram,16-07-2025,18:41,#StudentLife,Events,946,178,5,30056,3.21,Neutral,1,1,664.3462525064026,1
+Sage_0193,Instagram,05-07-2025,06:48,#Workshop #Alumni #Recruitment,Recruitment,680,196,23,21780,1.9,Neutral,1,1,685.2601166157638,1
+Sage_0194,LinkedIn,16-07-2025,20:35,#StudentLife #Campus #Webinar,Recruitment,298,6,65,6293,1.43,Positive,2,2,338.307467343659,2
+Sage_0195,Instagram,14-02-2025,05:46,#Recruitment,Research,1067,56,10,32485,3.74,Neutral,1,1,522.5967290985109,1
+Sage_0196,LinkedIn,01-12-2024,05:09,#Workshop,Events,509,5,12,10404,0.33,Neutral,1,2,364.86326983311915,1
+Sage_0197,LinkedIn,03-10-2025,00:03,#Campus,Education,708,93,28,14922,0.66,Positive,2,2,439.39114387223754,1
+Sage_0198,Facebook,12-06-2025,13:13,#StudentLife #Campus #Research,Student Success,796,107,194,16025,4.99,Positive,2,0,652.6125045350335,2
+Sage_0199,Instagram,28-07-2025,08:52,#StudentLife #Innovation #Recruitment,Research,709,42,27,23579,2.72,Neutral,1,1,506.33039034678563,1
+Sage_0200,LinkedIn,31-08-2025,17:33,#Education,Recruitment,698,41,80,14078,4.57,Neutral,1,2,406.69099805184135,1
+Sage_0201,Twitter,16-12-2024,21:41,#Webinar #Alumni #Education,Workshops,178,56,134,5873,4.72,Neutral,1,3,325.6417071874402,2
+Sage_0202,Twitter,15-04-2025,17:54,No Hashtags,Announcements,7,38,119,1268,4.53,Positive,2,3,277.01015924921,1
+Sage_0203,Instagram,21-11-2024,23:15,#Education #Alumni #Research,Announcements,1488,176,25,45446,1.63,Positive,2,1,634.3048059987157,2
+Sage_0204,Instagram,13-06-2025,15:51,#Admissions #Research,Education,773,79,19,23478,3.14,Positive,2,1,521.6023160760476,2
+Sage_0205,Instagram,10-07-2025,18:49,#StudentLife #Education,Workshops,593,119,7,19360,2.76,Positive,2,1,568.0775696524056,2
+Sage_0206,Twitter,16-01-2025,15:38,No Hashtags,Recruitment,231,16,85,7211,3.47,Positive,2,3,251.44876978221316,2
+Sage_0207,Facebook,13-06-2025,19:04,No Hashtags,Research,735,134,67,15535,1.09,Negative,0,0,739.4186683568133,0
+Sage_0208,LinkedIn,28-07-2025,13:07,#Education,Recruitment,234,24,33,5014,3.65,Positive,2,2,359.22133145302007,2
+Sage_0209,Instagram,28-08-2025,02:00,#Research #Innovation #Alumni,Education,1229,97,8,37078,2.98,Neutral,1,1,570.2338640142777,1
+Sage_0210,LinkedIn,06-03-2025,08:25,#Education,Announcements,368,58,27,8127,0.35,Positive,2,2,398.7252969929243,2
+Sage_0211,LinkedIn,19-08-2025,09:08,#Campus #SAGEGroup #Recruitment,Events,798,7,13,17950,3.26,Positive,2,2,339.46934868306795,2
+Sage_0212,Instagram,25-05-2025,01:03,#Campus,Announcements,1347,89,14,42762,0.68,Neutral,1,1,560.9388132990063,1
+Sage_0213,Instagram,03-02-2025,21:33,#Recruitment #Education #Campus,Announcements,13,113,27,2605,2.41,Neutral,1,1,588.8239654448209,1
+Sage_0214,LinkedIn,02-02-2025,07:51,#Innovation #Admissions,Recruitment,420,6,69,10044,3.46,Negative,0,2,393.7428350013972,0
+Sage_0215,Instagram,23-05-2025,20:16,#SAGEGroup #Alumni #StudentLife,Education,1447,182,30,43638,3.14,Positive,2,1,641.2760940351693,2
+Sage_0216,Twitter,13-12-2024,11:35,No Hashtags,Student Success,354,4,23,8939,0.77,Negative,0,3,292.94156136704396,0
+Sage_0217,Facebook,01-12-2024,13:42,#Career #SAGEGroup,Research,603,114,153,11634,0.43,Neutral,1,0,688.4633577397653,1
+Sage_0218,Twitter,25-05-2025,20:03,No Hashtags,Student Success,194,20,73,6084,0.76,Positive,2,3,256.09629513984896,2
+Sage_0219,Facebook,08-04-2025,18:24,No Hashtags,Education,497,139,50,9637,0.27,Neutral,1,0,717.510391224989,1
+Sage_0220,Facebook,20-04-2025,23:48,#StudentLife #Campus,Announcements,15,150,159,1812,3.61,Positive,2,0,702.5734021296183,0
+Sage_0221,Facebook,09-01-2025,09:09,#Recruitment,Student Success,161,33,19,3414,4.25,Neutral,1,0,594.3509692476404,1
+Sage_0222,LinkedIn,17-04-2025,07:02,#Innovation #Campus #Alumni,Announcements,645,115,54,14375,1.27,Neutral,1,2,492.6702171681036,1
+Sage_0223,Facebook,01-08-2025,01:14,No Hashtags,Research,266,71,106,4976,4.3,Positive,2,0,610.7847763163113,2
+Sage_0224,Instagram,05-06-2025,17:15,No Hashtags,Announcements,1110,130,1,35457,3.4,Negative,0,1,636.2936320436422,0
+Sage_0225,Facebook,04-10-2025,13:18,No Hashtags,Announcements,120,12,59,3948,4.66,Positive,2,0,542.2337772911834,2
+Sage_0226,Twitter,05-11-2024,16:46,No Hashtags,Recruitment,15,2,116,893,0.86,Neutral,1,3,262.90011485935696,1
+Sage_0227,LinkedIn,02-04-2025,03:57,#Workshop #StudentLife,Education,109,55,25,3078,2.01,Neutral,1,2,422.9573368035666,1
+Sage_0228,LinkedIn,28-11-2024,02:30,No Hashtags,Workshops,447,109,76,10332,1.84,Negative,0,2,513.4166129605189,0
+Sage_0229,Facebook,29-11-2024,23:32,#Research #Alumni #Campus,Announcements,431,104,99,8071,3.8,Neutral,1,0,676.8445443456758,1
+Sage_0230,LinkedIn,17-12-2024,00:54,No Hashtags,Workshops,16,97,50,1171,3.14,Positive,2,2,444.03866922987334,2
+Sage_0231,Twitter,11-08-2025,05:46,#Campus #Alumni,Research,36,20,109,2268,3.09,Positive,2,3,256.09629513984896,2
+Sage_0232,Twitter,29-12-2024,00:14,#SAGEGroup,Student Success,86,56,20,3047,0.4,Positive,2,3,297.9240233585711,2
+Sage_0233,Facebook,31-10-2025,14:55,#SAGEGroup,Workshops,826,96,31,17213,2.16,Positive,2,0,639.8318098015351,2
+Sage_0234,Instagram,10-03-2025,15:47,#Recruitment #Alumni #Education,Student Success,1112,97,8,34933,4.41,Positive,2,1,542.5161801854086,2
+Sage_0235,Twitter,13-09-2025,18:02,#Research,Education,389,7,94,10358,4.5,Neutral,1,3,268.7095215564017,1
+Sage_0236,Instagram,06-08-2025,00:18,#Campus,Workshops,451,192,40,14796,0.23,Neutral,1,1,680.612591258128,1
+Sage_0237,Twitter,27-11-2024,18:20,#Education #Research #StudentLife,Student Success,339,29,113,8838,2.99,Neutral,1,3,294.2709110233986,1
+Sage_0238,Twitter,20-11-2024,14:12,No Hashtags,Events,250,12,62,6643,0.98,Positive,2,3,246.80124442457736,2
+Sage_0239,Instagram,14-06-2025,02:29,#Education #Admissions,Events,706,109,23,24032,2.56,Negative,0,1,611.8941239160542,0
+Sage_0240,Twitter,03-10-2025,21:35,#StudentLife #Career,Announcements,73,28,69,2040,3.87,Neutral,1,3,293.1090296839896,1
+Sage_0241,Instagram,19-03-2025,01:16,No Hashtags,Education,1223,10,15,38275,0.85,Positive,2,1,441.43250365683014,2
+Sage_0242,LinkedIn,02-09-2025,04:53,#Education,Student Success,53,77,51,2207,4.92,Neutral,1,2,448.5187262705635,1
+Sage_0243,LinkedIn,15-12-2024,11:07,#Research,Workshops,260,61,71,6522,1.97,Negative,0,2,457.6463086688894,0
+Sage_0244,Twitter,21-08-2025,21:21,#SAGEGroup #Education #Innovation,Events,31,25,118,2110,3.03,Positive,2,3,261.9057018368937,2
+Sage_0245,LinkedIn,09-03-2025,14:03,#Workshop #Admissions #Innovation,Recruitment,212,6,27,6237,2.75,Neutral,1,2,366.0251511725281,1
+Sage_0246,LinkedIn,09-03-2025,17:18,#Research #Admissions,Workshops,487,18,14,11085,0.33,Positive,2,2,352.2500434165664,2
+Sage_0247,Twitter,24-05-2025,21:11,No Hashtags,Recruitment,256,2,15,7315,1.05,Positive,2,3,235.18243103048786,2
+Sage_0248,Twitter,03-08-2025,22:17,No Hashtags,Announcements,70,24,118,2603,0.81,Neutral,1,3,288.4615043263538,2
+Sage_0249,LinkedIn,01-01-2025,02:11,#Webinar #Innovation,Education,294,78,43,7088,0.28,Neutral,1,2,449.6806076099724,1
+Sage_0250,Instagram,09-09-2025,07:43,#Career #Education,Events,669,42,13,22647,1.23,Neutral,1,1,506.33039034678563,1
